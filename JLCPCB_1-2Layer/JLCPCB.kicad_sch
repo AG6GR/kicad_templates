@@ -1,19 +1,18 @@
-(kicad_sch (version 20230121) (generator eeschema)
-
-  (uuid 366c4e60-fc00-4520-9ea0-7840d623b51d)
-
-  (paper "USLetter")
-
-  (title_block
-    (rev "1")
-    (comment 1 "Design for JLCPCB 1-2 Layer Service")
-  )
-
-  (lib_symbols
-  )
-
-
-  (sheet_instances
-    (path "/" (page "1"))
-  )
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "366c4e60-fc00-4520-9ea0-7840d623b51d")
+	(paper "USLetter")
+	(title_block
+		(rev "1")
+		(comment 1 "Design for JLCPCB 1-2 Layer Service")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
